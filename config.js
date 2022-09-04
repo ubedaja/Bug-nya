@@ -16,8 +16,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'sonelstore',
 }
 // Other
-global.owner = ['6289506219231']
-global.premium = ['6289506219231']
+global.owner = ['6285857651982']
+global.premium = ['6285857651982']
 global.ownername = 'Jackytron'
 global.packname = 'Jackytron?'
 global.author = 'WhatsApp 👿'
